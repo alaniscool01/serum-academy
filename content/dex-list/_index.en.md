@@ -44,6 +44,7 @@ Below is a list of Serum DEXes:
 
 - BallsDeep DEX: [https://serumdex.ballsdeep.me](https://serumdex.ballsdeep.me)
 
+- iBTC DEX: [https://dex.ibtc.com.hk/#/](https://dex.ibtc.com.hk)
 ### Mobile
 
 - Coin98: [https://coin98.app](https://coin98.app)
